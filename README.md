@@ -1,6 +1,6 @@
 # Descripción
 
-Curso de visión artifial para los miembros del Club de Robótica de la Universidad Católica Boliviana "San Pablo" en Santa Cruz. Usaremos Python y paquetes como Numpy y OpenCV para analizar imágenes, videos y streams.
+Curso de visión artificial para los miembros del Club de Robótica de la Universidad Católica Boliviana "San Pablo" en Santa Cruz. Usaremos Python y paquetes como Numpy y OpenCV para analizar imágenes, videos y streams.
 
 ## Requerimientos
 
@@ -12,6 +12,6 @@ Curso de visión artifial para los miembros del Club de Robótica de la Universi
 
 ## Links de interés
 
-- (Visualización de Kernels de imágenes)[http://setosa.io/ev/image-kernels/]
+- [Visualización de Kernels de imágenes](http://setosa.io/ev/image-kernels/)
 
-- (Introducción a filtros bilaterales y sus aplicaciones - MIT CSAIL)[http://people.csail.mit.edu/sparis/bf_course/]
+- [Introducción a filtros bilaterales y sus aplicaciones - MIT CSAIL](http://people.csail.mit.edu/sparis/bf_course/)
